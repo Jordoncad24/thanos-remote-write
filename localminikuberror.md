@@ -99,3 +99,5 @@ Source: Conversation with Copilot, 24/10/2024
 (9) undefined. https://192.168.49.2:8443/apis/storage.k8s.io/v1/storageclasses.
 (10) undefined. https://github.com/kubernetes/minikube/releases/tag/v1.25.2.
 (11) undefined. https://192.168.58.2:8443/apis/storage.k8s.io/v1/storageclasses.
+
+i have brave and vpn related things installed.

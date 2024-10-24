@@ -1,6 +1,4 @@
-Sure! Here's a Markdown guide to set up Grafana in GitHub Codespaces using Minikube, complete with emojis for a fun touch:
 
-```markdown
 # 🚀 Setting Up Grafana in GitHub Codespaces Using Minikube
 
 ## Prerequisites

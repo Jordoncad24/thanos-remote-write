@@ -7,3 +7,7 @@ local install homebrew
  minikube start
 
  minikube status
+
+ install first 6 docker extensions
+
+ 
